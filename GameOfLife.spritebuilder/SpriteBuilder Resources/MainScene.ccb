@@ -334,8 +334,8 @@
 												<string>Position</string>
 												<key>value</key>
 												<array>
-													<real>0.0</real>
-													<real>0.0</real>
+													<real>45</real>
+													<real>50</real>
 													<integer>0</integer>
 													<integer>0</integer>
 													<integer>0</integer>
@@ -372,7 +372,8 @@
 												<string>Text</string>
 												<key>value</key>
 												<array>
-													<string>Sample Text</string>
+													<string>0
+</string>
 													<false/>
 												</array>
 											</dict>
@@ -382,7 +383,7 @@
 												<key>type</key>
 												<string>FontTTF</string>
 												<key>value</key>
-												<string>Helvetica</string>
+												<string>Courier-Bold</string>
 											</dict>
 											<dict>
 												<key>name</key>
@@ -402,6 +403,19 @@
 												<string>Check</string>
 												<key>value</key>
 												<false/>
+											</dict>
+											<dict>
+												<key>name</key>
+												<string>color</string>
+												<key>type</key>
+												<string>Color3</string>
+												<key>value</key>
+												<array>
+													<real>0.17360082268714905</real>
+													<real>0.66472703218460083</real>
+													<real>0.14429840445518494</real>
+													<real>1</real>
+												</array>
 											</dict>
 											<dict>
 												<key>name</key>
@@ -541,8 +555,8 @@
 												<string>Position</string>
 												<key>value</key>
 												<array>
-													<real>0.0</real>
-													<real>0.0</real>
+													<real>45</real>
+													<real>15</real>
 													<integer>0</integer>
 													<integer>0</integer>
 													<integer>0</integer>
@@ -574,12 +588,21 @@
 											</dict>
 											<dict>
 												<key>name</key>
+												<string>rotation</string>
+												<key>type</key>
+												<string>Degrees</string>
+												<key>value</key>
+												<real>-2.5939521789550781</real>
+											</dict>
+											<dict>
+												<key>name</key>
 												<string>string</string>
 												<key>type</key>
 												<string>Text</string>
 												<key>value</key>
 												<array>
-													<string>Sample Text</string>
+													<string>0
+</string>
 													<false/>
 												</array>
 											</dict>
@@ -589,7 +612,7 @@
 												<key>type</key>
 												<string>FontTTF</string>
 												<key>value</key>
-												<string>Helvetica</string>
+												<string>Courier-Bold</string>
 											</dict>
 											<dict>
 												<key>name</key>
@@ -609,6 +632,19 @@
 												<string>Check</string>
 												<key>value</key>
 												<false/>
+											</dict>
+											<dict>
+												<key>name</key>
+												<string>color</string>
+												<key>type</key>
+												<string>Color3</string>
+												<key>value</key>
+												<array>
+													<real>0.2492644339799881</real>
+													<real>0.64798367023468018</real>
+													<real>0.21472074091434479</real>
+													<real>1</real>
+												</array>
 											</dict>
 											<dict>
 												<key>name</key>
@@ -748,8 +784,8 @@
 												<string>Position</string>
 												<key>value</key>
 												<array>
-													<real>0.0</real>
-													<real>0.0</real>
+													<real>45</real>
+													<real>73</real>
 													<integer>0</integer>
 													<integer>0</integer>
 													<integer>0</integer>
@@ -786,7 +822,7 @@
 												<string>Text</string>
 												<key>value</key>
 												<array>
-													<string>Sample Text</string>
+													<string>Population</string>
 													<false/>
 												</array>
 											</dict>
@@ -796,7 +832,7 @@
 												<key>type</key>
 												<string>FontTTF</string>
 												<key>value</key>
-												<string>Helvetica</string>
+												<string>Courier-Bold</string>
 											</dict>
 											<dict>
 												<key>name</key>
@@ -816,6 +852,19 @@
 												<string>Check</string>
 												<key>value</key>
 												<false/>
+											</dict>
+											<dict>
+												<key>name</key>
+												<string>color</string>
+												<key>type</key>
+												<string>Color3</string>
+												<key>value</key>
+												<array>
+													<real>0.25201708078384399</real>
+													<real>0.54878759384155273</real>
+													<real>0.096702456474304199</real>
+													<real>1</real>
+												</array>
 											</dict>
 											<dict>
 												<key>name</key>
@@ -955,8 +1004,8 @@
 												<string>Position</string>
 												<key>value</key>
 												<array>
-													<real>0.0</real>
-													<real>0.0</real>
+													<real>45</real>
+													<real>40</real>
 													<integer>0</integer>
 													<integer>0</integer>
 													<integer>0</integer>
@@ -993,7 +1042,7 @@
 												<string>Text</string>
 												<key>value</key>
 												<array>
-													<string>Sample Text</string>
+													<string>Generation</string>
 													<false/>
 												</array>
 											</dict>
@@ -1003,7 +1052,7 @@
 												<key>type</key>
 												<string>FontTTF</string>
 												<key>value</key>
-												<string>Helvetica</string>
+												<string>Courier-Bold</string>
 											</dict>
 											<dict>
 												<key>name</key>
@@ -1023,6 +1072,19 @@
 												<string>Check</string>
 												<key>value</key>
 												<false/>
+											</dict>
+											<dict>
+												<key>name</key>
+												<string>color</string>
+												<key>type</key>
+												<string>Color3</string>
+												<key>value</key>
+												<array>
+													<real>0.11460389196872711</real>
+													<real>0.62751233577728271</real>
+													<real>0.17476639151573181</real>
+													<real>1</real>
+												</array>
 											</dict>
 											<dict>
 												<key>name</key>
@@ -1538,8 +1600,6 @@
 										</array>
 									</dict>
 								</array>
-								<key>selected</key>
-								<true/>
 							</dict>
 							<dict>
 								<key>UUID</key>
@@ -2016,6 +2076,8 @@
 						</array>
 					</dict>
 				</array>
+				<key>selected</key>
+				<true/>
 			</dict>
 		</array>
 		<key>customClass</key>
