@@ -422,6 +422,17 @@
 		50F9E8160E1AA34E000E7616 /* ccTypes.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; lineEnding = 0; path = ccTypes.h; sourceTree = "<group>"; };
 		50FBB2D8117613F500150761 /* CCActionTween.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CCActionTween.h; sourceTree = "<group>"; };
 		50FBB2D9117613F500150761 /* CCActionTween.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CCActionTween.m; sourceTree = "<group>"; };
+		8F5ABA6219631E7E007FD56B /* balloon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = balloon.png; sourceTree = "<group>"; };
+		8F5ABA6319631E7E007FD56B /* bubble.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bubble.png; sourceTree = "<group>"; };
+		8F5ABA6419631E7E007FD56B /* grid.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = grid.png; sourceTree = "<group>"; };
+		8F5ABA6519631E7E007FD56B /* microscope.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = microscope.png; sourceTree = "<group>"; };
+		8F5ABA6719631E7E007FD56B /* background.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = background.png; sourceTree = "<group>"; };
+		8F5ABA6919631E7E007FD56B /* button-pressed.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "button-pressed.png"; sourceTree = "<group>"; };
+		8F5ABA6A19631E7E007FD56B /* button.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = button.png; sourceTree = "<group>"; };
+		8F5ABA6B19631E7E007FD56B /* pause-pressed.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "pause-pressed.png"; sourceTree = "<group>"; };
+		8F5ABA6C19631E7E007FD56B /* pause.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = pause.png; sourceTree = "<group>"; };
+		8F5ABA6D19631E7E007FD56B /* play-pressed.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "play-pressed.png"; sourceTree = "<group>"; };
+		8F5ABA6E19631E7E007FD56B /* play.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = play.png; sourceTree = "<group>"; };
 		926B97EE1938606D00E345FB /* CCAnimationManager+FrameAnimation.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = "CCAnimationManager+FrameAnimation.m"; path = "cocos2d-ui/CCBReader/CCAnimationManager+FrameAnimation.m"; sourceTree = "<group>"; };
 		926B97EF1938606D00E345FB /* CCAnimationManager+FrameAnimation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = "CCAnimationManager+FrameAnimation.h"; path = "cocos2d-ui/CCBReader/CCAnimationManager+FrameAnimation.h"; sourceTree = "<group>"; };
 		926B97F01938606D00E345FB /* CCAnimationManager_Private.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = CCAnimationManager_Private.h; path = "cocos2d-ui/CCBReader/CCAnimationManager_Private.h"; sourceTree = "<group>"; };
@@ -679,6 +690,7 @@
 		29B97314FDCFA39411CA2CEA /* CustomTemplate */ = {
 			isa = PBXGroup;
 			children = (
+				8F5ABA6019631E7E007FD56B /* GameOfLifeAssets */,
 				A07EC9B2141A8D32008C1F12 /* README.md */,
 				501A7CAC0EBC97BA005BC158 /* AUTHORS */,
 				508A4A2310B47A46004B9CC3 /* RELEASE_NOTES */,
@@ -972,6 +984,48 @@
 				D2B840C31909F447008063EA /* CCRenderTexture_Private.h */,
 			);
 			name = "Misc Nodes";
+			sourceTree = "<group>";
+		};
+		8F5ABA6019631E7E007FD56B /* GameOfLifeAssets */ = {
+			isa = PBXGroup;
+			children = (
+				8F5ABA6119631E7E007FD56B /* Assets */,
+				8F5ABA6619631E7E007FD56B /* BackgroundImage */,
+				8F5ABA6819631E7E007FD56B /* Buttons */,
+			);
+			path = GameOfLifeAssets;
+			sourceTree = "<group>";
+		};
+		8F5ABA6119631E7E007FD56B /* Assets */ = {
+			isa = PBXGroup;
+			children = (
+				8F5ABA6219631E7E007FD56B /* balloon.png */,
+				8F5ABA6319631E7E007FD56B /* bubble.png */,
+				8F5ABA6419631E7E007FD56B /* grid.png */,
+				8F5ABA6519631E7E007FD56B /* microscope.png */,
+			);
+			path = Assets;
+			sourceTree = "<group>";
+		};
+		8F5ABA6619631E7E007FD56B /* BackgroundImage */ = {
+			isa = PBXGroup;
+			children = (
+				8F5ABA6719631E7E007FD56B /* background.png */,
+			);
+			path = BackgroundImage;
+			sourceTree = "<group>";
+		};
+		8F5ABA6819631E7E007FD56B /* Buttons */ = {
+			isa = PBXGroup;
+			children = (
+				8F5ABA6919631E7E007FD56B /* button-pressed.png */,
+				8F5ABA6A19631E7E007FD56B /* button.png */,
+				8F5ABA6B19631E7E007FD56B /* pause-pressed.png */,
+				8F5ABA6C19631E7E007FD56B /* pause.png */,
+				8F5ABA6D19631E7E007FD56B /* play-pressed.png */,
+				8F5ABA6E19631E7E007FD56B /* play.png */,
+			);
+			path = Buttons;
 			sourceTree = "<group>";
 		};
 		A0D7D9D415E2E737000CA0C4 /* Physics */ = {
