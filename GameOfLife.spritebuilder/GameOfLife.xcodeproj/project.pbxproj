@@ -1470,22 +1470,11 @@
 		8F5AC8241963326A007FD56B /* VERSION in Resources */ = {isa = PBXBuildFile; fileRef = 8F5AC1E519633267007FD56B /* VERSION */; };
 		8F5AC8251963326A007FD56B /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 8F5AC1E619633267007FD56B /* main.m */; };
 		8F5AC8261963326A007FD56B /* MainScene.m in Sources */ = {isa = PBXBuildFile; fileRef = 8F5AC1E819633267007FD56B /* MainScene.m */; };
-		8F5AC8271963326A007FD56B /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 8F5AC1EB19633267007FD56B /* Default-568h@2x.png */; };
 		8F5AC8281963326A007FD56B /* Default-Landscape@2x~ipad.png in Resources */ = {isa = PBXBuildFile; fileRef = 8F5AC1EC19633267007FD56B /* Default-Landscape@2x~ipad.png */; };
-		8F5AC8291963326A007FD56B /* Default-Landscape~ipad.png in Resources */ = {isa = PBXBuildFile; fileRef = 8F5AC1ED19633267007FD56B /* Default-Landscape~ipad.png */; };
 		8F5AC82A1963326A007FD56B /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = 8F5AC1EE19633267007FD56B /* Default.png */; };
-		8F5AC82B1963326A007FD56B /* Default@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 8F5AC1EF19633267007FD56B /* Default@2x.png */; };
 		8F5AC82C1963326A007FD56B /* iPad-old.png in Resources */ = {isa = PBXBuildFile; fileRef = 8F5AC1F119633268007FD56B /* iPad-old.png */; };
-		8F5AC82D1963326A007FD56B /* iPad-old@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 8F5AC1F219633268007FD56B /* iPad-old@2x.png */; };
-		8F5AC82E1963326A007FD56B /* iPad.png in Resources */ = {isa = PBXBuildFile; fileRef = 8F5AC1F319633268007FD56B /* iPad.png */; };
-		8F5AC82F1963326A007FD56B /* iPad@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 8F5AC1F419633268007FD56B /* iPad@2x.png */; };
-		8F5AC8301963326A007FD56B /* iPhone-old.png in Resources */ = {isa = PBXBuildFile; fileRef = 8F5AC1F519633268007FD56B /* iPhone-old.png */; };
 		8F5AC8311963326A007FD56B /* iPhone-old@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 8F5AC1F619633268007FD56B /* iPhone-old@2x.png */; };
 		8F5AC8321963326A007FD56B /* iPhone.png in Resources */ = {isa = PBXBuildFile; fileRef = 8F5AC1F719633268007FD56B /* iPhone.png */; };
-		8F5AC8331963326A007FD56B /* iPhone@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 8F5AC1F819633268007FD56B /* iPhone@2x.png */; };
-		8F5AC8341963326A007FD56B /* Settings.png in Resources */ = {isa = PBXBuildFile; fileRef = 8F5AC1F919633268007FD56B /* Settings.png */; };
-		8F5AC8351963326A007FD56B /* Settings@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 8F5AC1FA19633268007FD56B /* Settings@2x.png */; };
-		8F5AC8361963326A007FD56B /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8F5AC1FB19633268007FD56B /* Info.plist */; };
 		8F5AC8371963326A007FD56B /* iTunesArtwork in Resources */ = {isa = PBXBuildFile; fileRef = 8F5AC1FC19633268007FD56B /* iTunesArtwork */; };
 		8F5AC8381963326A007FD56B /* ccbButtonHighlighted.png in Resources */ = {isa = PBXBuildFile; fileRef = 8F5AC20019633268007FD56B /* ccbButtonHighlighted.png */; };
 		8F5AC8391963326A007FD56B /* ccbButtonNormal.png in Resources */ = {isa = PBXBuildFile; fileRef = 8F5AC20119633268007FD56B /* ccbButtonNormal.png */; };
@@ -1583,25 +1572,18 @@
 		8F5AC8951963326A007FD56B /* Strings.ccbLang in Resources */ = {isa = PBXBuildFile; fileRef = 8F5AC27019633268007FD56B /* Strings.ccbLang */; };
 		8F5AC8C319633300007FD56B /* Grid.m in Sources */ = {isa = PBXBuildFile; fileRef = 8F5AC8C2196332FF007FD56B /* Grid.m */; };
 		8F5AC8C619633386007FD56B /* Creature.m in Sources */ = {isa = PBXBuildFile; fileRef = 8F5AC8C519633386007FD56B /* Creature.m */; };
-		B71F5911188484E7003F4D28 /* iPad-old.png in Resources */ = {isa = PBXBuildFile; fileRef = B71F5907188484E7003F4D28 /* iPad-old.png */; };
 		B71F5912188484E7003F4D28 /* iPad-old@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = B71F5908188484E7003F4D28 /* iPad-old@2x.png */; };
 		B71F5913188484E7003F4D28 /* iPad.png in Resources */ = {isa = PBXBuildFile; fileRef = B71F5909188484E7003F4D28 /* iPad.png */; };
 		B71F5914188484E7003F4D28 /* iPad@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = B71F590A188484E7003F4D28 /* iPad@2x.png */; };
 		B71F5915188484E7003F4D28 /* iPhone-old.png in Resources */ = {isa = PBXBuildFile; fileRef = B71F590B188484E7003F4D28 /* iPhone-old.png */; };
-		B71F5916188484E7003F4D28 /* iPhone-old@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = B71F590C188484E7003F4D28 /* iPhone-old@2x.png */; };
-		B71F5917188484E7003F4D28 /* iPhone.png in Resources */ = {isa = PBXBuildFile; fileRef = B71F590D188484E7003F4D28 /* iPhone.png */; };
 		B71F5918188484E7003F4D28 /* iPhone@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = B71F590E188484E7003F4D28 /* iPhone@2x.png */; };
 		B71F5919188484E7003F4D28 /* Settings.png in Resources */ = {isa = PBXBuildFile; fileRef = B71F590F188484E7003F4D28 /* Settings.png */; };
 		B71F591A188484E7003F4D28 /* Settings@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = B71F5910188484E7003F4D28 /* Settings@2x.png */; };
 		B737893B180761570076A88C /* Published-iOS in Resources */ = {isa = PBXBuildFile; fileRef = B737893A180761570076A88C /* Published-iOS */; };
-		B737893F1807617C0076A88C /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = B737893E1807617C0076A88C /* AppDelegate.m */; };
 		B7378975180762440076A88C /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = B737896B180762440076A88C /* Default-568h@2x.png */; };
 		B7378976180762440076A88C /* Default-Landscape~ipad.png in Resources */ = {isa = PBXBuildFile; fileRef = B737896C180762440076A88C /* Default-Landscape~ipad.png */; };
-		B7378977180762440076A88C /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = B737896D180762440076A88C /* Default.png */; };
 		B7378978180762440076A88C /* Default@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = B737896E180762440076A88C /* Default@2x.png */; };
-		B73789871807631A0076A88C /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = B73789851807631A0076A88C /* main.m */; };
 		B737898A1807642B0076A88C /* libcocos2d.a in Frameworks */ = {isa = PBXBuildFile; fileRef = B737894B180761A90076A88C /* libcocos2d.a */; };
-		B7378994180767190076A88C /* MainScene.m in Sources */ = {isa = PBXBuildFile; fileRef = B7378993180767190076A88C /* MainScene.m */; };
 		B77F1B3217B978D7009739AE /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B77F1B3117B978D7009739AE /* QuartzCore.framework */; };
 		B77F1B3417B978D7009739AE /* OpenGLES.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B77F1B3317B978D7009739AE /* OpenGLES.framework */; };
 		B77F1B3617B978D7009739AE /* OpenAL.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B77F1B3517B978D7009739AE /* OpenAL.framework */; };
@@ -7291,7 +7273,7 @@
 		B77F1B2617B978D7009739AE /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastUpgradeCheck = 0460;
+				LastUpgradeCheck = 0510;
 				ORGANIZATIONNAME = Apportable;
 				TargetAttributes = {
 					B77F1B2D17B978D7009739AE = {
@@ -7786,7 +7768,6 @@
 				8F5AC2B519633268007FD56B /* CCActionTween.html in Resources */,
 				8F5AC77C1963326A007FD56B /* hexa-tiles.png in Resources */,
 				8F5AC73B1963326A007FD56B /* Info-FontTest.plist in Resources */,
-				8F5AC82F1963326A007FD56B /* iPad@2x.png in Resources */,
 				8F5AC47219633268007FD56B /* TilesAtlassed.plist in Resources */,
 				8F5AC7461963326A007FD56B /* issue1344-test2-ipad.txt in Resources */,
 				8F5AC7891963326A007FD56B /* ortho-objects.tmx in Resources */,
@@ -7852,7 +7833,6 @@
 				8F5AC2F619633268007FD56B /* Nodes.xml in Resources */,
 				8F5AC51219633268007FD56B /* 37.png in Resources */,
 				8F5AC6AE1963326A007FD56B /* grossinis_sister1-testalpha.png in Resources */,
-				B71F5916188484E7003F4D28 /* iPhone-old@2x.png in Resources */,
 				8F5AC60B19633269007FD56B /* play-pressed.png in Resources */,
 				8F5AC4C719633268007FD56B /* 36.png in Resources */,
 				8F5AC69A1963326A007FD56B /* grossini_dance_05.png in Resources */,
@@ -7925,7 +7905,6 @@
 				8F5AC5A319633269007FD56B /* chipmunk.vcxproj.user in Resources */,
 				8F5AC3A119633268007FD56B /* CCActionSpawn.html in Resources */,
 				8F5AC4E019633268007FD56B /* 24.png in Resources */,
-				8F5AC82E1963326A007FD56B /* iPad.png in Resources */,
 				8F5AC7201963326A007FD56B /* test_image_a8.pvr in Resources */,
 				8F5AC7A91963326A007FD56B /* grossini.zss in Resources */,
 				8F5AC28E19633268007FD56B /* CCActionEaseElasticIn.html in Resources */,
@@ -8143,7 +8122,6 @@
 				8F5AC2A119633268007FD56B /* CCActionPlace.html in Resources */,
 				8F5AC6EB1963326A007FD56B /* sprite-3-1.png in Resources */,
 				8F5AC39619633268007FD56B /* CCActionRepeat.html in Resources */,
-				8F5AC8341963326A007FD56B /* Settings.png in Resources */,
 				8F5AC4A419633268007FD56B /* 01.png in Resources */,
 				8F5AC4B519633268007FD56B /* 18.png in Resources */,
 				8F5AC7711963326A007FD56B /* example_Mandelbrot.fsh in Resources */,
@@ -8171,7 +8149,6 @@
 				8F5AC4CD19633268007FD56B /* 05.png in Resources */,
 				8F5AC7741963326A007FD56B /* example_Monjori.vsh in Resources */,
 				8F5AC6521963326A007FD56B /* bitmapFontTest5.fnt in Resources */,
-				8F5AC8361963326A007FD56B /* Info.plist in Resources */,
 				8F5AC49E19633268007FD56B /* slider-handle.png in Resources */,
 				8F5AC6A31963326A007FD56B /* grossini_dance_14.png in Resources */,
 				8F5AC70B1963326A007FD56B /* sprite-7-1.png in Resources */,
@@ -8268,7 +8245,6 @@
 				8F5AC51619633268007FD56B /* 04.png in Resources */,
 				8F5AC32119633268007FD56B /* Tokens33.xml in Resources */,
 				8F5AC6611963326A007FD56B /* futura-48.GlyphProject in Resources */,
-				8F5AC8301963326A007FD56B /* iPhone-old.png in Resources */,
 				8F5AC5A219633269007FD56B /* chipmunk.vcxproj.filters in Resources */,
 				8F5AC48619633268007FD56B /* Interface.plist in Resources */,
 				8F5AC32C19633268007FD56B /* Tokens43.xml in Resources */,
@@ -8278,7 +8254,6 @@
 				8F5AC6E81963326A007FD56B /* sprite-2-6.png in Resources */,
 				8F5AC65E1963326A007FD56B /* fps_images.plist in Resources */,
 				8F5AC46A19633268007FD56B /* Raymarching.fsh in Resources */,
-				B71F5917188484E7003F4D28 /* iPhone.png in Resources */,
 				8F5AC52F19633268007FD56B /* 29.png in Resources */,
 				8F5AC6E91963326A007FD56B /* sprite-2-7.png in Resources */,
 				8F5AC35E19633268007FD56B /* Tokens89.xml in Resources */,
@@ -8557,7 +8532,6 @@
 				8F5AC8061963326A007FD56B /* TemplateInfo.plist in Resources */,
 				8F5AC7FA1963326A007FD56B /* Icon.png in Resources */,
 				8F5AC4B419633268007FD56B /* 17.png in Resources */,
-				8F5AC82D1963326A007FD56B /* iPad-old@2x.png in Resources */,
 				8F5AC4C019633268007FD56B /* 29.png in Resources */,
 				8F5AC78C1963326A007FD56B /* ortho-test1_bw.png in Resources */,
 				8F5AC2DC19633268007FD56B /* CCTiledMapLayer.html in Resources */,
@@ -8584,7 +8558,6 @@
 				8F5AC3A719633268007FD56B /* CCAppDelegate.html in Resources */,
 				8F5AC6BE1963326A007FD56B /* particles-hd.png in Resources */,
 				8F5AC7D91963326A007FD56B /* newton.png in Resources */,
-				8F5AC82B1963326A007FD56B /* Default@2x.png in Resources */,
 				8F5AC38E19633268007FD56B /* CCActionJumpBy.html in Resources */,
 				8F5AC6FB1963326A007FD56B /* sprite-5-1.png in Resources */,
 				8F5AC2BF19633268007FD56B /* CCLayout.html in Resources */,
@@ -8597,7 +8570,6 @@
 				8F5AC62C19633269007FD56B /* ChipmunkDemo-Info.plist in Resources */,
 				8F5AC7481963326A007FD56B /* issue1344-test3-hd.txt in Resources */,
 				8F5AC48319633268007FD56B /* TilesAtlassed.png in Resources */,
-				B7378977180762440076A88C /* Default.png in Resources */,
 				8F5AC58E19633269007FD56B /* stylesheet.css in Resources */,
 				8F5AC7D41963326A007FD56B /* newton-ipad.plist in Resources */,
 				8F5AC6691963326A007FD56B /* konqa32.png in Resources */,
@@ -8607,7 +8579,6 @@
 				8F5AC52419633268007FD56B /* 18.png in Resources */,
 				8F5AC48B19633268007FD56B /* TilesAtlassed.png in Resources */,
 				8F5AC7831963326A007FD56B /* iso-test.tmx in Resources */,
-				8F5AC8351963326A007FD56B /* Settings@2x.png in Resources */,
 				8F5AC8401963326A007FD56B /* ccbSliderBgNormal.png in Resources */,
 				8F5AC2F419633268007FD56B /* index.html in Resources */,
 				8F5AC59219633269007FD56B /* doxygen_generator.rb in Resources */,
@@ -8693,7 +8664,6 @@
 				8F5AC2C719633268007FD56B /* CCParticleSystem.html in Resources */,
 				8F5AC46C19633268007FD56B /* din.fnt in Resources */,
 				8F5AC48519633268007FD56B /* din.png in Resources */,
-				B71F5911188484E7003F4D28 /* iPad-old.png in Resources */,
 				8F5AC7751963326A007FD56B /* example_Plasma.fsh in Resources */,
 				8F5AC7151963326A007FD56B /* starynight.png in Resources */,
 				8F5AC37619633268007FD56B /* CCActionEase.html in Resources */,
@@ -8704,7 +8674,6 @@
 				8F5AC28619633268007FD56B /* CCActionEaseBackIn.html in Resources */,
 				8F5AC27C19633268007FD56B /* CCActionBezierTo.html in Resources */,
 				8F5AC2E619633268007FD56B /* CCPhysicsBodyType.html in Resources */,
-				8F5AC8331963326A007FD56B /* iPhone@2x.png in Resources */,
 				8F5AC64A1963326A007FD56B /* arial16.png in Resources */,
 				8F5AC50D19633268007FD56B /* 32.png in Resources */,
 				8F5AC7051963326A007FD56B /* sprite-6-3.png in Resources */,
@@ -8767,7 +8736,6 @@
 				8F5AC74E1963326A007FD56B /* issue1344-test7-ipadhd.txt in Resources */,
 				8F5AC2C519633268007FD56B /* CCNodeMultiplexer.html in Resources */,
 				8F5AC8031963326A007FD56B /* Info.plist in Resources */,
-				8F5AC8291963326A007FD56B /* Default-Landscape~ipad.png in Resources */,
 				8F5AC27B19633268007FD56B /* CCActionBezierBy.html in Resources */,
 				8F5AC47A19633268007FD56B /* TilesAtlassed.plist in Resources */,
 				8F5AC7ED1963326A007FD56B /* Default.png in Resources */,
@@ -8792,7 +8760,6 @@
 				8F5AC6B71963326A007FD56B /* hole_effect.png in Resources */,
 				8F5AC55519633268007FD56B /* cocos2d.xcworkspace in Resources */,
 				8F5AC6591963326A007FD56B /* font-issue1343.png in Resources */,
-				8F5AC8271963326A007FD56B /* Default-568h@2x.png in Resources */,
 				8F5AC2D919633268007FD56B /* CCTexture.html in Resources */,
 				8F5AC7601963326A007FD56B /* Galaxy.plist in Resources */,
 				8F5AC7661963326A007FD56B /* SpookyPeas.plist in Resources */,
@@ -9013,7 +8980,6 @@
 				8F5AC55C19633269007FD56B /* Bench.c in Sources */,
 				8F5AC81B1963326A007FD56B /* CCMemoryTests.m in Sources */,
 				8F5AC3F719633268007FD56B /* CCConfiguration.m in Sources */,
-				B737893F1807617C0076A88C /* AppDelegate.m in Sources */,
 				8F5AC5C019633269007FD56B /* cpHashSet.c in Sources */,
 				8F5AC5C719633269007FD56B /* cpSimpleMotor.c in Sources */,
 				8F5AC5DF19633269007FD56B /* CallbacksTest.m in Sources */,
@@ -9067,11 +9033,9 @@
 				8F5AC41A19633268007FD56B /* CCResponderManager.m in Sources */,
 				8F5AC5BA19633269007FD56B /* cpCollision.c in Sources */,
 				8F5AC41E19633268007FD56B /* CCSprite.m in Sources */,
-				B7378994180767190076A88C /* MainScene.m in Sources */,
 				8F5AC5E919633269007FD56B /* OALAudioActions.m in Sources */,
 				8F5AC3F619633268007FD56B /* CCClippingNode.m in Sources */,
 				8F5AC5AF19633269007FD56B /* ChipmunkConstraint.m in Sources */,
-				B73789871807631A0076A88C /* main.m in Sources */,
 				8F5AC42619633268007FD56B /* CCTiledMap.m in Sources */,
 				8F5AC81D1963326A007FD56B /* CCPhysicsTests.m in Sources */,
 				8F5AC5EB19633269007FD56B /* OALAudioTrack.m in Sources */,
@@ -9172,7 +9136,12 @@
 		B77F1CDC17B978D8009739AE /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				GCC_C_LANGUAGE_STANDARD = gnu99;
 				GCC_OPTIMIZATION_LEVEL = 0;
@@ -9182,9 +9151,14 @@
 				);
 				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
 				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
 				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 4.0;
+				ONLY_ACTIVE_ARCH = YES;
 				SDKROOT = iphoneos;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -9193,7 +9167,12 @@
 		B77F1CDD17B978D8009739AE /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				GCC_C_LANGUAGE_STANDARD = gnu99;
 				GCC_PREPROCESSOR_DEFINITIONS = (
@@ -9201,7 +9180,11 @@
 					"NS_BLOCK_ASSERTIONS=1",
 				);
 				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
 				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 4.0;
 				SDKROOT = iphoneos;
@@ -9213,7 +9196,6 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
-				ARCHS = "$(ARCHS_STANDARD)";
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
@@ -9254,7 +9236,6 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
-				ARCHS = "$(ARCHS_STANDARD)";
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
